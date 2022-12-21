@@ -1,2 +1,2 @@
 # python_autotests
-Пример автотестов бекенда pytest + requests
+Пример автотестов бекенда на python.
