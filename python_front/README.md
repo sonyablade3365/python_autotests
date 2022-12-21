@@ -1,2 +1,2 @@
-# python_autotests
+# python_front
 Примеры автотестов фронта на python.
